@@ -13,5 +13,5 @@
   </div>
   
   #### Contact Me
-  - [LinkedIn](www.linkedin.com/in/mirelameic/)
-  - [Email](mirelameic4@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/mirelameic/)
+  - [Email](mailto:mirelameic4@gmail.com)
