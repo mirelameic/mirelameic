@@ -12,7 +12,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
   </div>
-  
-  #### Contact Me
-  - [Linkedin](https://www.linkedin.com/in/mirelameic/)
-  - [Email](mailto:mirelameic4@gmail.com)
