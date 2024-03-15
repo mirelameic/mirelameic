@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirelameic&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="Mirela Mei Github Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirelameic&show_icons=true&count_private=true&hide_border=true&theme=merko&include_all_commits=true" alt="Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirelameic&layout=compact&hide_border=true&theme=merko" />
 </div>
 
